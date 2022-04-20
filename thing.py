@@ -83,8 +83,8 @@ if year % 4 == 0:
 reddit = praw.Reddit(client_id='C4UWIsiXzcFKOA',
                      client_secret='-XNDsOiH_f6x1E5JqChWTibj4o72jA',
                      user_agent='Python Script',
-                     username='memes45',
-                     password='Ferxojal1')
+                     username='*****',
+                     password='*****')
 
 # Create a class for r/stocks
 stocks = reddit.subreddit('stocks')
